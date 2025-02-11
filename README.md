@@ -2,7 +2,9 @@
 
 This lab  is a simple weather forecast application built with React. It displays a 5-day weather forecast with information.
 
-## Components (With the purposes)
+## Bellow are notes, for futture refericning 
+
+## Below are notes, for personel future referencing.
 
 ### 1. **App Component**
 - Maps over the weatherForecasts  array and passes data as props to the `WeatherForecast` component.
@@ -27,4 +29,4 @@ This lab  is a simple weather forecast application built with React. It displays
 2. **Rendering**: The `.map()` method is used to iterate over the `weatherForecasts` array and render a `WeatherForecast` component for each day.
 3. **Props**: Weather data is passed as props to the `WeatherForecast` component for display.
 
-![The interface](weatherapp..png)
+![The interface](weatherapp.png)
