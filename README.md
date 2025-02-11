@@ -2,7 +2,6 @@
 
 This lab  is a simple weather forecast application built with React. It displays a 5-day weather forecast with information.
 
-## Bellow are notes, for futture refericning 
 
 ## Below are notes, for personel future referencing.
 
